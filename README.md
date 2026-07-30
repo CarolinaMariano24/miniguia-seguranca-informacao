@@ -15,3 +15,21 @@ Como apoio ao processo de aprendizagem, utilizei o NotebookLM para organizar as 
 - Desenvolver habilidades de pesquisa, curadoria e organização de informações.
 - Documentar o processo de estudo utilizando o GitHub.
 - Criar um material de consulta para futuras revisões e fortalecer meu portfólio na área de Tecnologia da Informação.
+## Fontes Utilizadas
+
+As fontes abaixo foram selecionadas para apoiar os estudos sobre Segurança da Informação, utilizando materiais de organizações reconhecidas na área de tecnologia e cibersegurança.
+
+1. CERT.br - Cartilha de Segurança para Internet  
+https://cartilha.cert.br/
+
+2. Microsoft Learn - Segurança  
+https://learn.microsoft.com/pt-br/training/browse/?products=azure&subjects=security
+
+3. OWASP Foundation  
+https://owasp.org/
+
+4. NIST Cybersecurity Framework  
+https://www.nist.gov/cyberframework
+
+5. IBM - O que é Segurança da Informação?  
+https://www.ibm.com/br-pt/topics/information-security
