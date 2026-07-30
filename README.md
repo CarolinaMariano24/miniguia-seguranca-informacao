@@ -100,3 +100,37 @@ A análise da Tríade CIA ajudou a compreender que a Segurança da Informação 
 **Cicatriz:**
 
 Durante os testes, percebi que solicitar exemplos práticos no prompt tornou a resposta mais fácil de compreender e aplicar em situações reais.
+
+---
+
+### Prompt 3 - Glossário de Segurança da Informação
+
+**Objetivo:**  
+Criar um material de consulta rápida com os principais termos estudados em Segurança da Informação, facilitando a revisão dos conceitos.
+
+**Prompt utilizado:**
+
+> Crie um glossário com os principais termos de Segurança da Informação encontrados nas fontes, contendo o conceito e um exemplo de aplicação prática.
+
+**Resultado obtido:**
+
+O NotebookLM elaborou um glossário com conceitos fundamentais da área, incluindo:
+
+- **Segurança da Informação (InfoSec):** proteção das informações contra acessos, alterações ou interrupções não autorizadas.
+- **Cibersegurança:** proteção de sistemas digitais e ativos contra ameaças cibernéticas.
+- **Tríade CIA:** modelo baseado em Confidencialidade, Integridade e Disponibilidade.
+- **Vulnerabilidade:** falha ou ponto fraco que pode ser explorado por uma ameaça.
+- **Ameaça:** qualquer evento capaz de comprometer a segurança de um sistema.
+- **Ransomware:** malware que bloqueia ou criptografa dados e exige pagamento para recuperação.
+- **Phishing:** técnica de engenharia social utilizada para obter informações sensíveis.
+- **Criptografia:** técnica que transforma informações em códigos para proteger os dados.
+- **Firewall:** ferramenta que controla o tráfego de rede e bloqueia acessos suspeitos.
+- **Backup:** cópia de segurança utilizada para recuperação de dados.
+
+**Aprendizado:**
+
+A criação do glossário facilitou a organização dos conceitos e mostrou a importância de compreender a terminologia utilizada na área de Segurança da Informação.
+
+**Cicatriz:**
+
+Ao solicitar exemplos práticos junto aos conceitos, a resposta se tornou mais útil para revisão e aplicação no dia a dia.
