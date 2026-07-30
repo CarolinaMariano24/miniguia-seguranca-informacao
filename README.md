@@ -385,3 +385,132 @@ O Controle de Acesso Baseado em Função (RBAC) define permissões de acordo com
 Um colaborador do setor financeiro pode ter acesso apenas aos sistemas necessários para sua função, enquanto administradores possuem permissões mais amplas.
 
 ---
+
+## 5. Glossário de Segurança da Informação
+
+### Segurança da Informação (InfoSec)
+
+Área responsável por proteger informações contra acesso, alteração, divulgação ou interrupção não autorizada.
+
+**Exemplo:**  
+Uma empresa protegendo dados de clientes por meio de controles de acesso e criptografia.
+
+---
+
+### Cibersegurança
+
+Área focada na proteção de sistemas digitais, redes e dados contra ameaças no ambiente virtual.
+
+**Exemplo:**  
+Utilização de ferramentas para impedir ataques de hackers em uma aplicação.
+
+---
+
+### Tríade CIA
+
+Modelo formado pelos três pilares da Segurança da Informação:
+
+- **Confidencialidade:** garante que somente pessoas autorizadas tenham acesso às informações.
+- **Integridade:** garante que os dados permaneçam corretos e sem alterações indevidas.
+- **Disponibilidade:** garante que sistemas e informações estejam acessíveis quando necessários.
+
+---
+
+### Vulnerabilidade
+
+Falha ou ponto fraco em sistemas, processos ou comportamentos que pode ser explorado por uma ameaça.
+
+**Exemplo:**  
+Um software desatualizado com uma falha conhecida.
+
+---
+
+### Ameaça
+
+Qualquer situação ou evento que possa comprometer a segurança de uma informação ou sistema.
+
+**Exemplo:**  
+Um ataque hacker tentando explorar uma vulnerabilidade.
+
+---
+
+### Risco
+
+Possibilidade de uma ameaça explorar uma vulnerabilidade causando impacto negativo.
+
+**Exemplo:**  
+A possibilidade de perda de dados devido a um sistema sem backup.
+
+---
+
+### Malware
+
+Software desenvolvido com intenção maliciosa para causar danos ou obter acesso indevido a informações.
+
+**Exemplo:**  
+Vírus instalado por meio de um arquivo contaminado.
+
+---
+
+### Phishing
+
+Técnica de engenharia social utilizada para enganar usuários e roubar informações.
+
+**Exemplo:**  
+E-mail falso solicitando atualização de senha em um site fraudulento.
+
+---
+
+### Criptografia
+
+Método utilizado para proteger informações transformando dados em códigos que só podem ser acessados por usuários autorizados.
+
+**Exemplo:**  
+Proteção de mensagens e transações online.
+
+---
+
+### Firewall
+
+Ferramenta responsável por controlar o tráfego de rede e bloquear conexões suspeitas.
+
+**Exemplo:**  
+Bloqueio de acessos externos não autorizados em uma empresa.
+
+---
+
+### Backup
+
+Cópia de segurança utilizada para recuperar informações após perdas, falhas ou ataques.
+
+**Exemplo:**  
+Recuperação de arquivos após um ataque de ransomware.
+
+---
+
+### MFA (Multi-Factor Authentication)
+
+Método de autenticação que utiliza dois ou mais fatores para confirmar a identidade do usuário.
+
+**Exemplo:**  
+Senha + código enviado para o celular.
+
+---
+
+### SIEM
+
+Ferramenta que coleta e analisa eventos de segurança para identificar comportamentos suspeitos.
+
+**Exemplo:**  
+Detectar uma tentativa de acesso incomum a um sistema.
+
+---
+
+### SOC
+
+Equipe ou centro responsável pelo monitoramento e resposta a incidentes de segurança.
+
+**Exemplo:**  
+Profissionais analisando alertas e tomando ações contra ataques.
+
+---
