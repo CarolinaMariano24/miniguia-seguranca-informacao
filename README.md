@@ -194,3 +194,54 @@ A elaboração de um plano de estudos estruturado ajudou a compreender que a car
 **Cicatriz:**
 
 Percebi que prompts solicitando organização por níveis de conhecimento e prioridade tornam a resposta mais estratégica e facilitam a criação de um plano de aprendizado mais eficiente.
+
+---
+
+# Miniguia de Estudo - Segurança da Informação
+
+## 1. Fundamentos da Segurança da Informação
+
+A Segurança da Informação tem como objetivo proteger dados e informações contra acessos, alterações, perdas ou interrupções não autorizadas.
+
+Ela envolve processos, tecnologias e boas práticas para garantir que as informações estejam protegidas, independentemente do formato em que estejam armazenadas.
+
+### Diferença entre Segurança da Informação, Cibersegurança e Segurança de TI
+
+- **Segurança da Informação:** área responsável pela proteção das informações em qualquer formato, incluindo dados digitais e físicos.
+- **Cibersegurança:** foco na proteção de sistemas, redes e dados contra ameaças digitais.
+- **Segurança de TI:** proteção dos recursos tecnológicos utilizados por uma organização, como hardware, softwares e infraestrutura.
+
+---
+
+## 2. Tríade da Segurança da Informação (CIA)
+
+A Tríade CIA representa os três pilares fundamentais da Segurança da Informação:
+
+### Confidencialidade
+
+Garante que as informações sejam acessadas somente por pessoas autorizadas.
+
+**Exemplos:**
+- Uso de senhas e autenticação multifator.
+- Criptografia de dados.
+- Controle de permissões de acesso.
+
+### Integridade
+
+Garante que as informações permaneçam corretas, completas e sem alterações não autorizadas.
+
+**Exemplos:**
+- Controle de alterações em sistemas.
+- Validação de informações.
+- Monitoramento contra modificações indevidas.
+
+### Disponibilidade
+
+Garante que informações e sistemas estejam acessíveis quando necessários.
+
+**Exemplos:**
+- Realização de backups.
+- Manutenção dos sistemas.
+- Proteção contra ataques que causam indisponibilidade.
+
+---
