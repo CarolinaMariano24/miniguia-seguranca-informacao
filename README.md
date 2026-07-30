@@ -313,3 +313,75 @@ Consiste na manipulação de pessoas para obter informações ou induzir comport
 - Seguir políticas de segurança.
 
 ---
+
+## 4. Ferramentas e tecnologias de proteção
+
+A Segurança da Informação utiliza diferentes ferramentas e práticas para reduzir riscos, proteger dados e manter sistemas seguros.
+
+### Criptografia
+
+A criptografia é uma técnica que transforma informações em códigos para impedir que pessoas não autorizadas tenham acesso aos dados.
+
+**Exemplos de aplicação:**
+- Proteção de mensagens e arquivos.
+- Segurança de transações online.
+- Proteção de informações confidenciais.
+
+---
+
+### Autenticação Multifator (MFA/2FA)
+
+A autenticação multifator adiciona camadas extras de segurança para confirmar a identidade de um usuário.
+
+Além da senha, pode exigir outro fator de autenticação, como código enviado ao celular, aplicativo autenticador ou biometria.
+
+**Exemplos de aplicação:**
+- Acesso a e-mails corporativos.
+- Sistemas bancários.
+- Plataformas de trabalho.
+
+---
+
+### Firewall
+
+O firewall é uma ferramenta que monitora e controla o tráfego de rede, permitindo ou bloqueando conexões de acordo com regras de segurança.
+
+**Exemplos de aplicação:**
+- Bloqueio de acessos não autorizados.
+- Proteção de redes corporativas.
+- Controle de comunicação entre sistemas.
+
+---
+
+### Backup
+
+O backup consiste na criação de cópias de segurança das informações para permitir a recuperação dos dados em caso de perda, falhas ou ataques.
+
+**Exemplos de aplicação:**
+- Recuperação de arquivos após ransomware.
+- Cópias de dados importantes em nuvem.
+- Proteção contra falhas de equipamentos.
+
+---
+
+### SIEM e SOC
+
+O SIEM (Security Information and Event Management) é uma solução utilizada para coletar e analisar eventos de segurança, ajudando na identificação de comportamentos suspeitos.
+
+O SOC (Security Operations Center) é a equipe responsável pelo monitoramento, análise e resposta aos incidentes de segurança.
+
+**Exemplos de aplicação:**
+- Identificação de tentativas de invasão.
+- Monitoramento de atividades suspeitas.
+- Resposta rápida a incidentes.
+
+---
+
+### Controle de Acesso (RBAC)
+
+O Controle de Acesso Baseado em Função (RBAC) define permissões de acordo com a função ou cargo do usuário dentro de uma organização.
+
+**Exemplo de aplicação:**
+Um colaborador do setor financeiro pode ter acesso apenas aos sistemas necessários para sua função, enquanto administradores possuem permissões mais amplas.
+
+---
