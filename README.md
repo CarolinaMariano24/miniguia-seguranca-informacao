@@ -552,3 +552,15 @@ Os prompts abaixo podem ser utilizados novamente no NotebookLM ou em outras ferr
 ### Revisão com perguntas
 
 > Crie um conjunto de perguntas e respostas para revisar os principais conceitos de Segurança da Informação e testar meu conhecimento sobre o tema.
+
+---
+
+## Conclusão
+
+O desenvolvimento deste projeto permitiu aplicar a Inteligência Artificial como uma ferramenta de apoio ao aprendizado, utilizando o NotebookLM para organizar informações, revisar conceitos e estruturar conhecimentos sobre Segurança da Informação.
+
+Durante o estudo, foi possível compreender fundamentos importantes da área, como a Tríade CIA, gestão de riscos, principais ameaças, ferramentas de proteção e boas práticas de segurança.
+
+Além do aprendizado técnico, o projeto contribuiu para o desenvolvimento de habilidades relacionadas à pesquisa, curadoria de informações, elaboração de prompts e organização do conhecimento utilizando o GitHub como ferramenta de documentação.
+
+Este miniguia representa uma base inicial de estudos para continuar evoluindo na área de Tecnologia da Informação e aprofundar conhecimentos em Segurança da Informação.
