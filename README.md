@@ -165,3 +165,32 @@ O estudo das ameaças mostrou que a Segurança da Informação envolve tanto asp
 **Cicatriz:**
 
 Ao solicitar no prompt não apenas a identificação das ameaças, mas também o funcionamento e as formas de prevenção, foi possível obter respostas mais completas e aplicáveis ao contexto profissional.
+
+---
+
+### Prompt 5 - Plano de revisão para carreira em Segurança da Informação
+
+**Objetivo:**  
+Organizar uma sequência de estudos para desenvolver uma base de conhecimento em Segurança da Informação e direcionar o aprendizado para uma futura atuação profissional na área de Tecnologia da Informação.
+
+**Prompt utilizado:**
+
+> Crie um plano de revisão para eu estudar Segurança da Informação, organizando os assuntos por ordem de importância para quem deseja iniciar uma carreira na área de Tecnologia da Informação.
+
+**Resultado obtido:**
+
+O NotebookLM organizou uma trilha de estudos progressiva, dividida em etapas:
+
+- **Fundamentos da Segurança da Informação:** estudo da Tríade CIA, conceitos de risco, vulnerabilidades e ameaças.
+- **Ameaças e ataques:** compreensão de malware, ransomware, phishing e engenharia social.
+- **Controles e ferramentas de segurança:** estudo de criptografia, autenticação multifator, firewall, backup e controle de acesso.
+- **Frameworks e governança:** introdução ao NIST Cybersecurity Framework, OWASP e boas práticas de segurança.
+- **Desenvolvimento profissional:** utilização de plataformas de aprendizado, acompanhamento de conteúdos da área e preparação para certificações.
+
+**Aprendizado:**
+
+A elaboração de um plano de estudos estruturado ajudou a compreender que a carreira em Segurança da Informação exige uma construção gradual de conhecimento, iniciando pelos fundamentos e evoluindo para ferramentas e práticas profissionais.
+
+**Cicatriz:**
+
+Percebi que prompts solicitando organização por níveis de conhecimento e prioridade tornam a resposta mais estratégica e facilitam a criação de um plano de aprendizado mais eficiente.
