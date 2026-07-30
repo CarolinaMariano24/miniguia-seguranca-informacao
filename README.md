@@ -4,7 +4,7 @@
 
 Este repositório foi criado para registrar meus estudos sobre os fundamentos da Segurança da Informação durante um desafio prático da DIO (Digital Innovation One).
 
-Como apoio ao processo de aprendizagem, utilizei o NotebookLM para organizar as informações, gerar resumos, esclarecer dúvidas e revisar os principais conceitos. Ao final, reuni neste repositório as fontes consultadas, os prompts utilizados, os aprendizados obtidos e um miniguia de estudo para futuras revisões.
+Como apoio ao processo de aprendizagem, utilizei o NotebookLM para organizar as informações, gerar resumos e revisar os principais conceitos. Ao final, reuni neste repositório as fontes consultadas, os prompts utilizados, os aprendizados obtidos e um miniguia de estudo para futuras revisões.
 
 ---
 
@@ -15,6 +15,9 @@ Como apoio ao processo de aprendizagem, utilizei o NotebookLM para organizar as 
 - Desenvolver habilidades de pesquisa, curadoria e organização de informações.
 - Documentar o processo de estudo utilizando o GitHub.
 - Criar um material de consulta para futuras revisões e fortalecer meu portfólio na área de Tecnologia da Informação.
+
+---
+
 ## Fontes Utilizadas
 
 As fontes abaixo foram selecionadas para apoiar os estudos sobre Segurança da Informação, utilizando materiais de organizações reconhecidas na área de tecnologia e cibersegurança.
