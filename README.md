@@ -66,8 +66,37 @@ O NotebookLM organizou os principais conceitos de Segurança da Informação, ab
 
 **Aprendizado:**
 
-O uso de um prompt com contexto definido e indicação do nível de conhecimento esperado contribuiu para uma resposta mais organizada e adequada ao objetivo de estudo.
+A utilização de um prompt com contexto definido e indicação do nível de conhecimento esperado ajudou a obter respostas mais organizadas e alinhadas ao objetivo de estudo.
 
 **Cicatriz:**
 
-Durante o processo, percebi que prompts mais detalhados geram respostas mais direcionadas. Informar o objetivo do estudo e solicitar uma estrutura por tópicos ajudou a melhorar a qualidade das respostas.
+Durante o processo, percebi que prompts mais detalhados geram respostas mais direcionadas. Informar o objetivo do estudo e solicitar uma estrutura por tópicos ajudou a melhorar a qualidade das respostas. 
+
+---
+
+### Prompt 2 - Tríade da Segurança da Informação
+
+**Objetivo:**  
+Aprofundar o entendimento sobre os pilares fundamentais da Segurança da Informação e compreender sua aplicação prática nas organizações.
+
+**Prompt utilizado:**
+
+> Com base nas fontes disponíveis, explique a Tríade da Segurança da Informação (Confidencialidade, Integridade e Disponibilidade), apresentando exemplos práticos do dia a dia e sua importância para as organizações.
+
+**Resultado obtido:**
+
+O NotebookLM explicou a Tríade CIA como um modelo fundamental para a proteção das informações, detalhando:
+
+- **Confidencialidade:** garante que apenas pessoas autorizadas tenham acesso às informações.
+- **Integridade:** garante que os dados permaneçam corretos, completos e protegidos contra alterações não autorizadas.
+- **Disponibilidade:** garante que informações e sistemas estejam acessíveis quando necessários.
+
+Também foram apresentados exemplos práticos envolvendo autenticação, criptografia, backups, proteção contra ataques e continuidade dos serviços.
+
+**Aprendizado:**
+
+A análise da Tríade CIA ajudou a compreender que a Segurança da Informação não envolve apenas proteção contra ataques, mas também a garantia de que os dados estejam corretos e disponíveis para os usuários autorizados.
+
+**Cicatriz:**
+
+Durante os testes, percebi que solicitar exemplos práticos no prompt tornou a resposta mais fácil de compreender e aplicar em situações reais.
