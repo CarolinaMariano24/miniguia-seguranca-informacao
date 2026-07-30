@@ -514,3 +514,41 @@ Equipe ou centro responsável pelo monitoramento e resposta a incidentes de segu
 Profissionais analisando alertas e tomando ações contra ataques.
 
 ---
+
+## 6. Prompts reutilizáveis para futuras revisões
+
+Os prompts abaixo podem ser utilizados novamente no NotebookLM ou em outras ferramentas de Inteligência Artificial para revisar e aprofundar os conhecimentos em Segurança da Informação.
+
+### Revisão geral do tema
+
+> Explique os principais conceitos de Segurança da Informação de forma estruturada, considerando um estudante iniciante na área de Tecnologia da Informação.
+
+---
+
+### Revisão da Tríade CIA
+
+> Explique a Tríade da Segurança da Informação (Confidencialidade, Integridade e Disponibilidade), apresentando exemplos práticos em ambientes corporativos.
+
+---
+
+### Estudo de ameaças
+
+> Liste as principais ameaças de Segurança da Informação, explicando como funcionam, quais impactos podem causar e quais medidas de prevenção devem ser adotadas.
+
+---
+
+### Aprendizado de ferramentas
+
+> Explique as principais ferramentas utilizadas em Segurança da Informação, como firewall, criptografia, backup, autenticação multifator, SIEM e SOC, apresentando exemplos de aplicação.
+
+---
+
+### Preparação para carreira
+
+> Crie uma trilha de estudos para uma pessoa que deseja iniciar uma carreira em Segurança da Informação, organizando os conhecimentos por ordem de importância e dificuldade.
+
+---
+
+### Revisão com perguntas
+
+> Crie um conjunto de perguntas e respostas para revisar os principais conceitos de Segurança da Informação e testar meu conhecimento sobre o tema.
