@@ -134,3 +134,34 @@ A criação do glossário facilitou a organização dos conceitos e mostrou a im
 **Cicatriz:**
 
 Ao solicitar exemplos práticos junto aos conceitos, a resposta se tornou mais útil para revisão e aplicação no dia a dia.
+
+---
+
+### Prompt 4 - Principais ameaças de Segurança da Informação
+
+**Objetivo:**  
+Compreender as principais ameaças existentes na área de Segurança da Informação, identificando como funcionam e quais medidas podem ser utilizadas para prevenção.
+
+**Prompt utilizado:**
+
+> Liste as principais ameaças de Segurança da Informação, como malware, phishing e engenharia social, explicando como funcionam e como podem ser evitadas.
+
+**Resultado obtido:**
+
+O NotebookLM apresentou as principais ameaças de Segurança da Informação e suas formas de prevenção, destacando:
+
+- **Malware:** códigos maliciosos criados para invadir, danificar ou comprometer sistemas.
+- **Ransomware:** tipo de malware que bloqueia ou criptografa dados, exigindo pagamento para recuperação.
+- **Phishing:** mensagens fraudulentas utilizadas para enganar usuários e roubar informações.
+- **Engenharia Social:** manipulação psicológica para obter dados confidenciais ou induzir ações inseguras.
+- **Ameaças internas:** riscos causados por erros humanos, negligência ou ações mal-intencionadas.
+- **Ataques DoS/DDoS:** ataques que sobrecarregam sistemas para impedir o acesso de usuários legítimos.
+- **Configurações incorretas:** falhas de configuração que podem expor sistemas e informações.
+
+**Aprendizado:**
+
+O estudo das ameaças mostrou que a Segurança da Informação envolve tanto aspectos tecnológicos quanto humanos. Muitas vulnerabilidades surgem por falhas de comportamento, falta de conhecimento ou ausência de boas práticas.
+
+**Cicatriz:**
+
+Ao solicitar no prompt não apenas a identificação das ameaças, mas também o funcionamento e as formas de prevenção, foi possível obter respostas mais completas e aplicáveis ao contexto profissional.
