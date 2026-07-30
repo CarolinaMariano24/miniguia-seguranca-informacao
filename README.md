@@ -245,3 +245,71 @@ Garante que informações e sistemas estejam acessíveis quando necessários.
 - Proteção contra ataques que causam indisponibilidade.
 
 ---
+
+## 3. Principais ameaças de Segurança da Informação
+
+As ameaças de Segurança da Informação representam riscos que podem comprometer dados, sistemas e a continuidade das atividades de uma organização.
+
+Conhecer essas ameaças é fundamental para desenvolver medidas de prevenção e proteção.
+
+### Malware
+
+Malware é um software malicioso criado para causar danos, roubar informações ou comprometer sistemas.
+
+**Exemplos:**
+- Vírus.
+- Worms.
+- Ransomware.
+
+**Como prevenir:**
+- Manter sistemas e softwares atualizados.
+- Utilizar soluções de segurança.
+- Evitar abrir arquivos ou links desconhecidos.
+
+---
+
+### Ransomware
+
+É um tipo de malware que bloqueia ou criptografa arquivos e exige pagamento para liberar o acesso aos dados.
+
+**Exemplos:**
+- Ataques que impedem empresas de acessar seus sistemas.
+- Bloqueio de arquivos importantes por criminosos digitais.
+
+**Como prevenir:**
+- Realizar backups frequentes.
+- Utilizar autenticação multifator.
+- Manter sistemas atualizados.
+
+---
+
+### Phishing
+
+É uma técnica de engenharia social utilizada para enganar usuários e obter informações como senhas, dados pessoais ou informações financeiras.
+
+**Exemplos:**
+- E-mails falsos de bancos.
+- Mensagens com links maliciosos.
+- Sites falsificados.
+
+**Como prevenir:**
+- Verificar remetentes e links antes de acessar.
+- Não informar dados pessoais sem confirmar a origem.
+- Utilizar autenticação em dois fatores.
+
+---
+
+### Engenharia Social
+
+Consiste na manipulação de pessoas para obter informações ou induzir comportamentos inseguros.
+
+**Exemplos:**
+- Golpistas fingindo ser funcionários de uma empresa.
+- Solicitação de senhas ou informações confidenciais.
+
+**Como prevenir:**
+- Realizar treinamentos de conscientização.
+- Desconfiar de solicitações incomuns.
+- Seguir políticas de segurança.
+
+---
